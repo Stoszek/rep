@@ -1,7 +1,7 @@
 """
 This module contains the utility functions for the calculator app.
 """
-#zmiana
+
 
 def add(a: int, b: int) -> int:
     """
